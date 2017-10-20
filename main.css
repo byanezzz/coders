@@ -1,0 +1,40 @@
+h1{
+	font-size: 1.2em;
+	color: grey;
+}
+
+hr { 
+    display: block;
+    width: 3.9em;
+    margin-bottom: 1.5em;
+    border-style: solid ;
+    border-width: .15em;
+    border-color: grey;
+    margin-left: 0;
+}
+
+p{
+	position: absolute;
+	top:75%;
+	right: 5%;
+	color: white;
+}
+.container{
+	margin-left:25%;
+	width: 656px;
+}
+.fila{
+	text-align: center;
+	margin-bottom: 1.5em;
+	overflow: hidden;
+}
+.foto{
+	width: 200px;
+	height: 200px;
+	float: left;
+	position: relative;
+	margin-right: 1em;
+}
+.fuente{
+	font-family: 'Sanchez', serif;
+}
